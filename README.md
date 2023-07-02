@@ -31,9 +31,3 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * The conclusion were made using classification metrics. roc curve and auc score
 
 ![image](https://github.com/phoenix-mp3/Rain-Prediction-using-PyCaret-and-ML-model/assets/128579996/f6f6bd64-c503-4cab-86a9-dd8ad5eb7dbb)
-
-
-# Model Deployment
-* The model is deployed using Flask at Heroku server at the [link](https://rainy-brain.herokuapp.com/)
-
-# If you like this project please do give a star. I am also giving my LinkedIn profile. If you want we can connect there too
