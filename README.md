@@ -10,16 +10,6 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * Back-End: Flask
 * IDE: Jupyter notebook, Pycharm
 
-# How to run this app
-* First create a virtual environment by using this command:
-* conda create -n myenv python=3.6
-* Activate the environment using the below command:
-* conda activate myenv
-* Then install all the packages by using the following command
-* pip install -r requirements.txt
-* Now for the final step. Run the app
-* python app.py
-
 # Data Collection: 
 [Rainfall Prediction in Australia dataset](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package) from Kaggle
 
